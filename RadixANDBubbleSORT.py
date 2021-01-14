@@ -13,7 +13,6 @@ oleh :
 
 
 1.   **I Wayan Adi Wahyudi - 1301194084**
-2.   **Hazim Isma'il - (1301194149)**
 
 # **Import dan Function tambahan**
 """
